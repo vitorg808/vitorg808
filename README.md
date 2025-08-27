@@ -4,6 +4,7 @@ I'm a 21yo full-stack developer who started with MTA:SA in 2018. Since then, I'v
 </br>
 working with MTA:SA, FiveM, and web development.
 </br>
+</br>
 
 <p align="left">
   <a href="https://skillicons.dev">
