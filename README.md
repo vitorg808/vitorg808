@@ -4,10 +4,6 @@ I'm a 21yo full-stack developer who started with MTA:SA in 2018. Since then, I'v
 </br>
 working with MTA:SA, FiveM, and web development.
 
-[![Discord](https://img.shields.io/badge/imstr-7289DA?logo=discord&logoColor=white)](https://discord.gg)
-[![Steam](https://img.shields.io/badge/imstr-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/imstr/)
-[![Discord](https://img.shields.io/badge/gmail-orange?logo=gmail&logoColor=white)](mailto:profile.s7r@gmail.com)
-
 </br>
 
 <p align="left">
